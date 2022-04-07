@@ -6,4 +6,7 @@ module.exports = {
     //   'jest-transform-stub',
     '^.+\\.jsx?$': 'babel-jest'
   },
+  moduleNameMapper: {
+    'swiper': '<rootDir>/node_modules/swiper/swiper-bundle.js'
+  }
 }
