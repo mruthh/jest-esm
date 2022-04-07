@@ -1,1 +1,1 @@
-Minimal reproduction of an issue using Jest with Vue component than import ES modules.
+Minimal reproduction of an issue using Jest with Vue component that imports ES modules.
